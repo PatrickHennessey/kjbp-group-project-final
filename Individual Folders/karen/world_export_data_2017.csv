@@ -1,0 +1,247 @@
+reporter_name,partner_name,year,trade_flow,no_of_exported_hs6_digit_products,export_share_in_total_products_percent,export_us_dollars_thousand,export_partner_share_percent
+ World,Aruba,2017,Export,2942,62.77,1617136.12,0.01
+ World,Afghanistan,2017,Export,2980,63.58,5361910.28,0.03
+ World,Angola,2017,Export,3956,84.4,11202135.62,0.07
+ World,Anguila,2017,Export,1102,23.51,94975.63,0
+ World,Albania,2017,Export,3854,82.23,4921342.19,0.03
+ World,Andorra,2017,Export,3091,65.95,1447057.47,0.01
+ World,United Arab Emirates,2017,Export,4488,95.75,192996499.6,1.23
+ World,Argentina,2017,Export,4228,90.21,59404929.82,0.38
+ World,Armenia,2017,Export,3538,75.49,2496317.37,0.02
+ World,American Samoa,2017,Export,1059,22.59,130133.4,0
+ World,Antarctica,2017,Export,862,18.39,33493.08,0
+ World,Fr. So. Ant. Tr,2017,Export,669,14.27,44448.9,0
+ World,Antigua and Barbuda,2017,Export,2378,50.74,988391.73,0.01
+ World,Australia,2017,Export,4521,96.46,186873332.7,1.19
+ World,Austria,2017,Export,4544,96.95,156793670.7,1
+ World,Azerbaijan,2017,Export,3897,83.14,7347595.2,0.05
+ World,Burundi,2017,Export,2109,45,432820.63,0
+ World,Belgium,2017,Export,4561,97.31,345469397.7,2.2
+ World,Benin,2017,Export,2916,62.21,4480496,0.03
+ World,Bonaire,2017,Export,1944,41.48,234843.38,0
+ World,Burkina Faso,2017,Export,2868,61.19,2354841.68,0.01
+ World,Bangladesh,2017,Export,4154,88.63,45196993.91,0.29
+ World,Bulgaria,2017,Export,4503,96.07,32870291.23,0.21
+ World,Bahrain,2017,Export,3806,81.2,7716254.89,0.05
+ World,"Bahamas, The",2017,Export,3076,65.63,9086629.1,0.06
+ World,Bosnia and Herzegovina,2017,Export,4111,87.71,8458432.63,0.05
+ World,Saint Barthélemy,2017,Export,1787,38.13,137512.43,0
+ World,Belarus,2017,Export,4326,92.3,25900743.07,0.17
+ World,Belize,2017,Export,2576,54.96,806705.87,0.01
+ World,Bermuda,2017,Export,2465,52.59,2097755.64,0.01
+ World,Bolivia,2017,Export,3821,81.52,7305797.71,0.05
+ World,Brazil,2017,Export,4389,93.64,156619974.7,1
+ World,Barbados,2017,Export,3038,64.82,1184543.88,0.01
+ World,Brunei,2017,Export,3362,71.73,2652580.9,0.02
+ World,Bhutan,2017,Export,2308,49.24,498775.25,0
+ World,Bunkers,2017,Export,2975,63.47,26575704.14,0.17
+ World,Bouvet Island,2017,Export,26,0.55,1300.89,0
+ World,Botswana,2017,Export,3969,84.68,5819184.99,0.04
+ World,Central African Republic,2017,Export,1842,39.3,287527.45,0
+ World,Canada,2017,Export,4559,97.27,411439335.2,2.62
+ World,Cocos (Keeling) Islands,2017,Export,393,8.38,9589.46,0
+ World,Switzerland,2017,Export,4536,96.78,248554707.1,1.58
+ World,Chile,2017,Export,4344,92.68,58662767.86,0.37
+ World,China,2017,Export,4584,97.8,1349258005,8.6
+ World,Cote d'Ivoire,2017,Export,3736,79.71,8378501.25,0.05
+ World,Cameroon,2017,Export,3499,74.65,5045714.42,0.03
+ World,"Congo, Rep.",2017,Export,3251,69.36,2294929.64,0.01
+ World,Cook Islands,2017,Export,2177,46.45,151024.91,0
+ World,Colombia,2017,Export,4296,91.66,41846579.09,0.27
+ World,Comoros,2017,Export,1720,36.7,308514.16,0
+ World,Cape Verde,2017,Export,3114,66.44,732641.37,0
+ World,Costa Rica,2017,Export,4027,85.92,12754740.36,0.08
+ World,Cuba,2017,Export,3470,74.03,6401467.9,0.04
+ World,Curaçao,2017,Export,3098,66.1,1514719.68,0.01
+ World,Christmas Island,2017,Export,735,15.68,31854.84,0
+ World,Cayman Islands,2017,Export,2417,51.57,4246839.36,0.03
+ World,Cyprus,2017,Export,4386,93.58,11176306.82,0.07
+ World,Czech Republic,2017,Export,4533,96.71,144516426.8,0.92
+ World,Germany,2017,Export,4596,98.06,1046326850,6.67
+ World,Djibouti,2017,Export,3096,66.06,3986329.13,0.03
+ World,Dominica,2017,Export,1896,40.45,346356.59,0
+ World,Denmark,2017,Export,4507,96.16,90833618.73,0.58
+ World,Dominican Republic,2017,Export,4030,85.98,15296303.88,0.1
+ World,Algeria,2017,Export,3980,84.92,41126691.72,0.26
+ World,East Asia & Pacific,2017,Export,,,4073757470,25.96
+ World,Europe & Central Asia,2017,Export,,,6245128546,39.8
+ World,Ecuador,2017,Export,4070,86.84,17390412.82,0.11
+ World,"Egypt, Arab Rep.",2017,Export,4246,90.59,58140587.65,0.37
+ World,Eritrea,2017,Export,1541,32.88,318675.45,0
+ World,Western Sahara,2017,Export,104,2.22,79438.25,0
+ World,Spain,2017,Export,4570,97.5,308602350,1.97
+ World,Estonia,2017,Export,4442,94.77,18504060.04,0.12
+ World,Ethiopia(excludes Eritrea),2017,Export,3556,75.87,8844267.08,0.06
+ World,Finland,2017,Export,4488,95.75,66564479.25,0.42
+ World,Fiji,2017,Export,3495,74.57,1947392.61,0.01
+ World,Falkland Island,2017,Export,1158,24.71,117339.26,0
+ World,France,2017,Export,4598,98.1,586399743.5,3.74
+ World,Free Zones,2017,Export,2971,63.39,4923119.95,0.03
+ World,Faeroe Islands,2017,Export,3135,66.89,999067.35,0.01
+ World,"Micronesia, Fed. Sts.",2017,Export,1207,25.75,175367.77,0
+ World,Gabon,2017,Export,3194,68.15,2103259.05,0.01
+ World,United Kingdom,2017,Export,4584,97.8,607564400.7,3.87
+ World,Georgia,2017,Export,3947,84.21,7764709.08,0.05
+ World,Ghana,2017,Export,3905,83.32,13043550.53,0.08
+ World,Gibraltar,2017,Export,3035,64.75,8940358.69,0.06
+ World,Guinea,2017,Export,3192,68.1,3704452.3,0.02
+ World,"Gambia, The",2017,Export,2613,55.75,1170925.52,0.01
+ World,Guinea-Bissau,2017,Export,2082,44.42,326744.68,0
+ World,Equatorial Guinea,2017,Export,2766,59.01,827543.77,0.01
+ World,Greece,2017,Export,4503,96.07,48999661.18,0.31
+ World,Grenada,2017,Export,2040,43.52,231555.14,0
+ World,Greenland,2017,Export,2964,63.24,737444.46,0
+ World,Guatemala,2017,Export,4017,85.71,15125563.8,0.1
+ World,Guam,2017,Export,1681,35.87,1131225.67,0.01
+ World,Guyana,2017,Export,2798,59.7,1103981.61,0.01
+ World,"Hong Kong, China",2017,Export,4504,96.1,559859351.3,3.57
+ World,Heard Island and McDonald Isla,2017,Export,35,0.75,462344.38,0
+ World,Honduras,2017,Export,3694,78.81,9041035.57,0.06
+ World,Croatia,2017,Export,4452,94.99,23805679.06,0.15
+ World,Haiti,2017,Export,3114,66.44,3913483.79,0.02
+ World,Hungary,2017,Export,4524,96.52,99160736.93,0.63
+ World,Indonesia,2017,Export,4472,95.41,134743065.1,0.86
+ World,India,2017,Export,4477,95.52,307760155.7,1.96
+ World,British Indian Ocean Ter.,2017,Export,225,4.8,68178.97,0
+ World,Ireland,2017,Export,4481,95.6,73900418.05,0.47
+ World,"Iran, Islamic Rep.",2017,Export,4158,88.71,50882021.53,0.32
+ World,Iraq,2017,Export,3881,82.8,30458995.67,0.19
+ World,Iceland,2017,Export,3854,82.23,6340387.71,0.04
+ World,Israel,2017,Export,4387,93.6,65227273.38,0.42
+ World,Italy,2017,Export,4585,97.82,421761213.8,2.69
+ World,Jamaica,2017,Export,3415,72.86,4370286.74,0.03
+ World,Jordan,2017,Export,4045,86.3,14989457.06,0.1
+ World,Japan,2017,Export,4561,97.31,468605995.3,2.99
+ World,Kazakhstan,2017,Export,4280,91.32,33659979.71,0.21
+ World,Kenya,2017,Export,4024,85.85,14971138.03,0.1
+ World,Kyrgyz Republic,2017,Export,3499,74.65,8306890.69,0.05
+ World,Cambodia,2017,Export,3630,77.45,12140518.03,0.08
+ World,Kiribati,2017,Export,1580,33.71,110971.41,0
+ World,St. Kitts and Nevis,2017,Export,2000,42.67,395704.73,0
+ World,"Korea, Rep.",2017,Export,4536,96.78,365406373,2.33
+ World,Kuwait,2017,Export,4044,86.28,23447566.5,0.15
+ World,Lao PDR,2017,Export,2529,53.96,2032534.53,0.01
+ World,Lebanon,2017,Export,4134,88.2,17024890.47,0.11
+ World,Liberia,2017,Export,2764,58.97,8256683.45,0.05
+ World,Libya,2017,Export,3163,67.48,8236655.49,0.05
+ World,St. Lucia,2017,Export,2374,50.65,1836859.68,0.01
+ World,Latin America & Caribbean,2017,Export,,,928215754.5,5.91
+ World,Sri Lanka,2017,Export,4194,89.48,17064852.09,0.11
+ World,Lesotho,2017,Export,3599,76.79,1495706.48,0.01
+ World,Lithuania,2017,Export,4482,95.63,27546771.89,0.18
+ World,Luxembourg,2017,Export,4411,94.11,23267322.36,0.15
+ World,Latvia,2017,Export,4440,94.73,20837654.44,0.13
+ World,Macao,2017,Export,3267,69.7,10795586.36,0.07
+ World,Morocco,2017,Export,4276,91.23,38343372.09,0.24
+ World,Moldova,2017,Export,3897,83.14,4622210.54,0.03
+ World,Madagascar,2017,Export,3444,73.48,3144376.15,0.02
+ World,Maldives,2017,Export,3412,72.8,1507999.54,0.01
+ World,Middle East & North Africa,2017,Export,,,750889898.3,4.78
+ World,Mexico,2017,Export,4479,95.56,376516745.3,2.4
+ World,Marshall Islands,2017,Export,1781,38,15988840.98,0.1
+ World,"Macedonia, FYR",2017,Export,3918,83.59,7457290.53,0.05
+ World,Mali,2017,Export,3157,67.36,2842570.22,0.02
+ World,Malta,2017,Export,4337,92.53,15885646.03,0.1
+ World,Myanmar,2017,Export,3856,82.27,17584018.41,0.11
+ World,Mongolia,2017,Export,3252,69.38,4016482.06,0.03
+ World,Northern Mariana Islands,2017,Export,1032,22.02,144508.71,0
+ World,Montenegro,2017,Export,3686,78.64,2626910.24,0.02
+ World,Mozambique,2017,Export,3921,83.66,7461064.84,0.05
+ World,Mauritania,2017,Export,2989,63.77,2653034.68,0.02
+ World,Montserrat,2017,Export,833,17.77,17780.84,0
+ World,Mauritius,2017,Export,3922,83.68,4313925.87,0.03
+ World,Malawi,2017,Export,3368,71.86,1482016.22,0.01
+ World,Malaysia,2017,Export,4511,96.24,167156720.6,1.07
+ World,North America,2017,Export,,,2475450643,15.77
+ World,Namibia,2017,Export,4095,87.37,5450885.32,0.03
+ World,New Caledonia,2017,Export,3328,71,2135164.08,0.01
+ World,Niger,2017,Export,2227,47.51,988550.29,0.01
+ World,Norfolk Island,2017,Export,949,20.25,49686.55,0
+ World,Nigeria,2017,Export,4049,86.39,35858912.11,0.23
+ World,Nicaragua,2017,Export,3386,72.24,4920994.91,0.03
+ World,Niue,2017,Export,1051,22.42,23680.83,0
+ World,Netherlands,2017,Export,4563,97.35,533266574.8,3.4
+ World,Norway,2017,Export,4442,94.77,76741272.8,0.49
+ World,Nepal,2017,Export,3945,84.17,7627251.63,0.05
+ World,Nauru,2017,Export,1066,22.74,46999.06,0
+ World,New Zealand,2017,Export,4344,92.68,31381304.39,0.2
+ World,"Other Asia, nes",2017,Export,4474,95.46,212801047.3,1.36
+ World,Oman,2017,Export,3911,83.44,20129986.78,0.13
+ World,Pakistan,2017,Export,4178,89.14,44114906.8,0.28
+ World,Panama,2017,Export,3927,83.78,36365435.79,0.23
+ World,Pitcairn,2017,Export,129,2.75,4505.97,0
+ World,Peru,2017,Export,4206,89.74,34552433.23,0.22
+ World,Philippines,2017,Export,4368,93.19,98465483.16,0.63
+ World,Palau,2017,Export,1212,25.86,87129.47,0
+ World,Papua New Guinea,2017,Export,3366,71.82,3879893.38,0.02
+ World,Poland,2017,Export,4556,97.2,232387856.6,1.48
+ World,"Korea, Dem. Rep.",2017,Export,3120,66.57,3434716.03,0.02
+ World,Portugal,2017,Export,4536,96.78,73345313.33,0.47
+ World,Paraguay,2017,Export,3849,82.12,10458837.23,0.07
+ World,Occ.Pal.Terr,2017,Export,1920,40.96,1003171.8,0.01
+ World,French Polynesia,2017,Export,3202,68.32,1404774.45,0.01
+ World,Qatar,2017,Export,4106,87.6,24836995.37,0.16
+ World,Romania,2017,Export,4531,96.67,81966542.3,0.52
+ World,Russian Federation,2017,Export,4520,96.44,206611126.4,1.32
+ World,Rwanda,2017,Export,3072,65.54,1224534.2,0.01
+ World,South Asia,2017,Export,,,429132845.2,2.73
+ World,Saudi Arabia,2017,Export,4387,93.6,107742895.2,0.69
+ World,Senegal,2017,Export,3686,78.64,8698011.87,0.06
+ World,"Serbia, FR(Serbia/Montenegro)",2017,Export,4324,92.26,20744063.42,0.13
+ World,Singapore,2017,Export,4451,94.96,244132221.5,1.56
+ World,South Georgia and the South Sa,2017,Export,22,0.47,1198.5,0
+ World,Saint Helena,2017,Export,1533,32.71,45634.99,0
+ World,Solomon Islands,2017,Export,2151,45.89,388607.5,0
+ World,Sierra Leone,2017,Export,2678,57.14,998710.48,0.01
+ World,El Salvador,2017,Export,3708,79.11,6624291.76,0.04
+ World,San Marino,2017,Export,1554,33.16,303058.97,0
+ World,Somalia,2017,Export,2538,54.15,2263165.98,0.01
+ World,Special Categories,2017,Export,1604,34.22,28266897.71,0.18
+ World,Saint Pierre and Miquelon,2017,Export,1717,36.63,58215.59,0
+ World,South Sudan,2017,Export,2234,47.66,585728.51,0
+ World,Sub-Saharan Africa,2017,Export,,,283084266.3,1.8
+ World,Sao Tome and Principe,2017,Export,2415,51.53,102744.18,0
+ World,Sudan,2017,Export,3505,74.78,6580162.92,0.04
+ World,Suriname,2017,Export,3091,65.95,1105547.01,0.01
+ World,Slovak Republic,2017,Export,4495,95.9,69518437.13,0.44
+ World,Slovenia,2017,Export,4466,95.28,35534418.6,0.23
+ World,Sweden,2017,Export,4516,96.35,138131131.2,0.88
+ World,Swaziland,2017,Export,3921,83.66,1509327.67,0.01
+ World,Saint Maarten (Dutch part),2017,Export,2350,50.14,689876.69,0
+ World,Seychelles,2017,Export,3005,64.11,770636.78,0
+ World,Syrian Arab Republic,2017,Export,3459,73.8,4448474.06,0.03
+ World,Turks and Caicos Isl.,2017,Export,1790,38.19,413097.04,0
+ World,Chad,2017,Export,2104,44.89,577215.26,0
+ World,Togo,2017,Export,3119,66.55,9196021.96,0.06
+ World,Thailand,2017,Export,4525,96.54,173863196.8,1.11
+ World,Tajikistan,2017,Export,2935,62.62,3057328.26,0.02
+ World,Tokelau,2017,Export,549,11.71,51951.73,0
+ World,Turkmenistan,2017,Export,3343,71.32,3671926.91,0.02
+ World,East Timor,2017,Export,2511,53.57,507541.38,0
+ World,Tonga,2017,Export,1924,41.05,129336.3,0
+ World,Trinidad and Tobago,2017,Export,3521,75.12,5411977.55,0.03
+ World,Tunisia,2017,Export,4102,87.52,19084068.99,0.12
+ World,Turkey,2017,Export,4495,95.9,184627918.9,1.18
+ World,Tuvalu,2017,Export,974,20.78,85837.28,0
+ World,Tanzania,2017,Export,3739,79.77,8434675.48,0.05
+ World,Uganda,2017,Export,3582,76.42,3400887.87,0.02
+ World,Ukraine,2017,Export,4396,93.79,47168522.31,0.3
+ World,United States Minor Outlying I,2017,Export,306,6.53,17590.54,0
+ World,Unspecified,2017,Export,4279,91.3,213919511.5,1.36
+ World,Uruguay,2017,Export,3974,84.79,10984209.29,0.07
+ World,United States,2017,Export,4642,99.04,2061913552,13.14
+ World,Uzbekistan,2017,Export,3772,80.48,11510915.11,0.07
+ World,Holy See,2017,Export,339,7.23,68358.99,0
+ World,St. Vincent and the Grenadines,2017,Export,1763,37.61,267170.19,0
+ World,Venezuela,2017,Export,3651,77.9,9927090.75,0.06
+ World,British Virgin Islands,2017,Export,2020,43.1,1110284.56,0.01
+ World,Vietnam,2017,Export,4477,95.52,212427522.8,1.35
+ World,Vanuatu,2017,Export,2447,52.21,321219.74,0
+ World, World,2017,Export,4687,100,15693182975,100
+ World,Wallis and Futura Isl.,2017,Export,1078,23,36625.75,0
+ World,Samoa,2017,Export,2360,50.35,360517.84,0
+ World,Yemen,2017,Export,2932,62.56,6185236.77,0.04
+ World,South Africa,2017,Export,4485,95.69,72225901.57,0.46
+ World,"Congo, Dem. Rep.",2017,Export,3757,80.16,4781593.81,0.03
+ World,Zambia,2017,Export,3884,82.87,4303312.71,0.03
+ World,Zimbabwe,2017,Export,3831,81.74,3416208.76,0.02
